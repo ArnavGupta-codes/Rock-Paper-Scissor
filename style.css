@@ -1,0 +1,22 @@
+body {
+    background-image: url(./background.jpg);
+    background-size:contain;
+  }
+
+  
+body {
+    color: white;
+    box-align: center;
+    
+    }
+
+.button1{
+  border-radius: 25px;
+  cursor: pointer;
+  height: 10px;
+}
+.Randomtext{
+  font-size: 36px;
+  background: red;
+  width: fit-content;
+}
